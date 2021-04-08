@@ -1,6 +1,6 @@
 if game.PlaceId == 155615604 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Xeyo hub - Prison life", "Ocean")
+    local Window = Library.CreateLib("Axis hub - Prison life", "Ocean")
 
     -- MAIN
     local Main = Window:NewTab("Utilities")
@@ -45,7 +45,7 @@ if game.PlaceId == 155615604 then
     end)
 elseif game.PlaceId == 3956818381 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-    local Window = Library.CreateLib("Xeyo Hub - Ninja legends", "Sentinel")
+    local Window = Library.CreateLib("Axis Hub - Ninja legends", "Sentinel")
 
     -- MAIN
     local Utilities = Window:NewTab("Main")
